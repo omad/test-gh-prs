@@ -6,3 +6,5 @@ It's going to contain a list of items.
 
 - Item 1
 
+- Item 2
+
